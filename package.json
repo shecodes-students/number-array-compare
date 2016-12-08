@@ -1,0 +1,21 @@
+{
+  "name": "number-array-compare",
+  "version": "1.0.0",
+  "description": "compare two arrays, optionally with tolerance!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "compare",
+    "fuzzy",
+    "tolerance",
+    "number"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
